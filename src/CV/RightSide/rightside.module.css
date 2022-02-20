@@ -1,0 +1,14 @@
+.container {
+  padding-right: 20px;
+}
+.paragraph {
+  line-height: 26px;
+  /* word-spacing: 4px; */
+}
+.listItems {
+  display: flex;
+  gap: 50px;
+}
+.listItems li {
+  /* margin-left: 50px; */
+}

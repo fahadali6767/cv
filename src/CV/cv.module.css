@@ -1,0 +1,10 @@
+.gridContainer {
+  display: grid;
+  grid-template-columns: 0.3fr 1fr;
+  gap: 30px;
+  padding-left: 20px;
+  /* margin: 20px; */
+  border: 1px solid #dedede;
+  min-height: 100vh;
+  box-sizing: border-box;
+}

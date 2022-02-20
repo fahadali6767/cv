@@ -1,0 +1,14 @@
+.container {
+  background: #dedede;
+  padding: 20px;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-flow: column;
+  /* width: 100%; */
+}
+.contactHeading {
+  /* text-decoration: underline;
+   */
+  margin-bottom: 0;
+}
