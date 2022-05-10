@@ -8,3 +8,10 @@
   min-height: 100vh;
   box-sizing: border-box;
 }
+@media(max-width:768px){
+  .gridContainer {
+   
+    grid-template-columns: 1fr;
+    border:none;
+}
+}

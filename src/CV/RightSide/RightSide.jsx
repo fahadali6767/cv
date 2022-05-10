@@ -19,12 +19,53 @@ const RightSide = () => {
 
         <ul className={classes.listItems}>
           <li>Reactjs</li>
-          <li>Javascript</li>
-          <li>HTML</li>
-          <li>CSS</li>
           <li>Redux</li>
           <li>Nodejs</li>
+          <li>MongoDB</li>
+          <li>Mysql</li>
         </ul>
+        <h2>Professional Experience</h2>
+        <hr />
+        <div>
+          <strong>React Developer (Oct 2020 -Present)</strong>
+          <br />
+          <br />
+          <strong>Company Name: Avalogix Technologies (Remote Job)</strong>
+          <br />
+          <strong className="ml-4 mt-4">
+            Key Qualifications & Responsibilities
+          </strong>
+          <ul>
+            <li className="mt-4">
+              Planned, wrote, and debugged web applications and software with
+              complete accuracy. Work on Long duration project (1.5 Month).
+            </li>
+            <li className="mt-4">
+              Managed time-sensitive updates, including content changes and
+              database upgrades.
+            </li>
+            <li className="mt-4">
+              API Integration, Database Operations(MongoDB,MYSQL) using REST
+              API.
+            </li>
+            <li className="mt-4">Worked on Nivo Charts. </li>
+            <li className="mt-4">Deployment of Projects on Netlify</li>
+          </ul>
+          <hr />
+          <strong>Junior Web Developer (Oct 2019 – june 2020) </strong>
+          <br />
+          <br />
+          <strong>Company Name: Creative Tech Solutions </strong>
+          <strong className="ml-4 mt-4">
+            Key Qualifications & Responsibilities
+          </strong>
+          <ul>
+            <li className="mt-4">Web Design creation and web fixes.</li>
+            <li className="mt-4">CSS And SCSS styling and CSS Modules.</li>
+            <li className="mt-4">Backend Security and DB Fixes.</li>
+            <li className="mt-4">Maintain and Agile Development of project.</li>
+          </ul>
+        </div>
         <h2>Education</h2>
         <hr />
         <div>
@@ -40,26 +81,6 @@ const RightSide = () => {
           </div>
           <div className="mt-4">Grade B</div>
           <div className="mt-4">2013-2015</div>
-        </div>
-        <h2>Professional Experience</h2>
-        <hr />
-        <div>
-          <strong>React Developer (Oct 2020 -Present)</strong>
-          <br />
-          <strong>Company Name: Avalogix Technologies (Remote Job)</strong>
-          <p>
-            Working as a ReactJs developer . I have hand on experience of many
-            react concepts like material ui, react-table,react-query,ant design
-            , css modules, Nested Routing ,Context API etc
-          </p>
-          <strong>Junior Sotware Developer (Oct 2019 – june 2020) </strong>
-          <strong>Company Name: Creative Tech Solutions </strong>
-          <ul>
-            <li>Worked as a MEAN Stack developer for 2 months. </li>
-            <li>Angular</li>
-            <li>Frigma Designs</li>
-            <li>Adobe Designs</li>
-          </ul>
         </div>
       </section>
     </div>
