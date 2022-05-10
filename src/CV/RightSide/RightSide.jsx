@@ -27,7 +27,7 @@ const RightSide = () => {
         <h2>Professional Experience</h2>
         <hr />
         <div>
-          <strong>React Developer (Oct 2020 -Present)</strong>
+          <strong>React Developer (Oct 2020 - April 2022)</strong>
           <br />
           <br />
           <strong>Company Name: Avalogix Technologies (Remote Job)</strong>
